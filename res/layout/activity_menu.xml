@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    
+        <Button
+            android:id="@+id/btlistusu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btlistarTodos" />
+        
+        <Button
+            android:id="@+id/btlistcol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btlistarTodos2" />
+        
+        <Button
+            android:id="@+id/btlistcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btlistarTodos3" />
+
+        <Button
+            android:id="@+id/btlistusuParam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btlistarParam" />
+        
+        <Button
+            android:id="@+id/btlistcolParam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btlistcolParam" />
+        
+        <Button
+            android:id="@+id/btlistconParam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btlistconParam" />
+
+        <Button
+            android:id = "@+id/btnovousu"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:text = "@string/btnovousu" />
+        
+        <Button
+            android:id = "@+id/btnovocol"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:text = "@string/btnovocol" />
+        
+        <Button
+            android:id = "@+id/btnovocon"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:text = "@string/btnovocon" />
+
+</LinearLayout>
+

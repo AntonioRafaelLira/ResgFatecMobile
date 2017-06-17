@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="br.com.fatec"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher">
+        <activity android:name="br.com.fatec.telas.LoginActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="br.com.fatec.telas.MenuActivity"></activity>
+        <activity android:name="br.com.fatec.telas.ListUsuActivity"></activity>
+        <activity android:name="br.com.fatec.telas.ListColActivity"></activity>
+        <activity android:name="br.com.fatec.telas.ListConActivity"></activity>
+        <activity android:name="br.com.fatec.telas.ListUsuParamActivity"></activity>
+        <activity android:name="br.com.fatec.telas.ListColParamActivity"></activity>
+        <activity android:name="br.com.fatec.telas.ListConParamActivity"></activity>
+        <activity android:name="br.com.fatec.telas.AddUsuActivity"></activity>
+        <activity android:name="br.com.fatec.telas.UptUsuActivity"></activity>
+        <activity android:name="br.com.fatec.telas.UptColActivity"></activity>
+        <activity android:name="br.com.fatec.telas.UptConActivity"></activity>
+        <activity android:name="br.com.fatec.telas.AddColActivity"></activity>
+        <activity android:name="br.com.fatec.telas.AddConActivity"></activity>
+    </application>
+</manifest>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PROJETO FINAL ANDROID - FATEC - RAFAEL</string>
+    <string name="btentrar">Entrar</string>
+    <string name="btlistarTodos">Listar Todos Usu</string>
+    <string name="btlistarTodos2">Listar Todos Col</string>
+    <string name="btlistarTodos3">Listar Todos Con</string>
+    <string name="btlistarParam">Listar Parametros</string>
+    <string name="btlistcolParam">Listar Parametros Col</string>
+    <string name="btlistconParam">Listar Parametros Con</string>
+    <string name="btpesquisar">Pesquisar</string>
+    <string name="btpesquisar2">Pesquisar</string>
+    <string name="btpesquisar3">Pesquisar</string>
+    <string name="btinserir">Inserir</string>
+    <string name="btinserir2">Inserir</string>
+    <string name="btinserir3">Inserir</string>
+    <string name="btalterar">Alterar</string>
+    <string name="btalterar2">Alterar</string>
+    <string name="btalterar3">Alterar</string>
+    <string name="btexcluir">Excluir</string>
+    <string name="btexcluir2">Excluir</string>
+    <string name="btexcluir3">Excluir</string>
+    <string name="btnovousu">Novo Usuario</string>
+    <string name="btnovocol">Novo Colaborador</string>
+    <string name="btnovocon">Novo Contato</string>
+    <string name="btsalvar">Salvar</string>
+    <string name="lblogin">Login</string>
+    <string name="lbsenha">Senha</string>
+    <string name="lbtipo">Tipo</string>
+    <string name="lbstatus">Status</string>
+    <string name="lbid">Id</string>
+    <string name="lbnome">Nome</string>
+    <string name="lbtipo2">Tipo</string>
+    <string name="lbnome2">Nome</string>
+    <string name="lbrg">Rg</string>
+    <string name="lbcpf">Cpf</string>
+    <string name="lbend">End</string>
+</resources>
